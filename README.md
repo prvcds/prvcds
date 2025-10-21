@@ -15,6 +15,6 @@ Check out my [open-source contributions](./OPEN_SOURCE.md)
 - **Innov8 Hackathon** - College-level hackathon exploring creative technical problem statements.  
 
 ### 📬 Get in Touch
-📧 [Mail](parvjhanwar@gmail.com)  | 🐙 [GitHub](https://github.com/prvcds)  | 💼 [LinkedIn](https://linkedin.com/in/parvjhanwar) |🧑🏻‍💻 [LeetCode](https://leetcode.com/u/paaruuu/)
+📧 [Mail](parvjhanwar@gmail.com)  | 🐙 [GitHub](https://github.com/prvcds)  | 💼 [LinkedIn](https://linkedin.com/in/parvjhanwar) | 🧑🏻‍💻 [LeetCode](https://leetcode.com/u/paaruuu/)
 
 Thank you!
