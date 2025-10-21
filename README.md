@@ -7,12 +7,12 @@ I enjoy solving real problems through code - from designing backend architecture
 Check out my [open-source contributions](./OPEN_SOURCE.md)  
 
 ### 💻 Projects
-- **BookSwap** — MERN stack platform for exchanging and selling books.  
-- **Daily Motivation Bot** — CLI-based GenAI project showcasing prompting, RAG, and structured outputs.  
+- **BookSwap** - MERN stack platform for exchanging and selling books.  
+- **Daily Motivation Bot** - CLI-based GenAI project showcasing prompting, RAG, and structured outputs.  
 
 ### 🧠 Experience & Hackathons
-- **Smart India Hackathon (SIH) 2025** -> National-level participation, problem-solving under real constraints.  
-- **Innov8 Hackathon** -> College-level hackathon exploring creative technical problem statements.  
+- **Smart India Hackathon (SIH) 2025** - National-level participation, problem-solving under real constraints.  
+- **Innov8 Hackathon** - College-level hackathon exploring creative technical problem statements.  
 
 ### 📬 Get in Touch
 📧 [Mail](parvjhanwar@gmail.com)  | 🐙 [GitHub](https://github.com/prvcds)  | 💼 [LinkedIn](https://linkedin.com/in/parvjhanwar) |🧑🏻‍💻 [LeetCode](https://leetcode.com/u/paaruuu/)
