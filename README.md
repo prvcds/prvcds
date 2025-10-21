@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Parv Jhanwar
 
-<!--
-**prvcds/prvcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student who is passionate about **full-stack web development** and learning how scalable systems come together end-to-end.  
+I enjoy solving real problems through code - from designing backend architectures to shaping intuitive user experiences.
 
-Here are some ideas to get you started:
+### 🧩 Open-Source
+Check out my [open-source contributions](./OPEN_SOURCE.md)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+- **BookSwap** — MERN stack platform for exchanging and selling books.  
+- **Daily Motivation Bot** — CLI-based GenAI project showcasing prompting, RAG, and structured outputs.  
+
+### 🧠 Experience & Hackathons
+- **Smart India Hackathon (SIH) 2025** -> National-level participation, problem-solving under real constraints.  
+- **Innov8 Hackathon** -> College-level hackathon exploring creative technical problem statements.  
+
+### 📬 Get in Touch
+📧 [Mail](parvjhanwar@gmail.com)  | 🐙 [GitHub](https://github.com/prvcds)  | 💼 [LinkedIn](https://linkedin.com/in/parvjhanwar) |🧑🏻‍💻 [LeetCode](https://leetcode.com/u/paaruuu/)
+
+Thank you!
