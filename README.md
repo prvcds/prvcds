@@ -4,7 +4,7 @@ I'm a CS student who is passionate about **full-stack web development** and lear
 I enjoy solving real problems through code - from designing backend architectures to shaping intuitive user experiences.
 
 ### 🧩 Open-Source
-Check out my [open-source contributions](./OPEN_SOURCE.md)  
+Check out my [open-source contributions](./OPEN_SOURCE.md).
 
 ### 💻 Projects
 - **BookSwap** - MERN stack platform for exchanging and selling books.  
