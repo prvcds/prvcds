@@ -1,7 +1,6 @@
 ## 🧩 Open Source Contributions
 
-This page highlights my open-source work — the repositories I contributed to, what I implemented, and the impact it created.  
-Each pull request focused on improving documentation, developer workflows, or project organization for long-term maintainability.
+This page highlights my open-source work - the repositories I contributed to, what I implemented, and the impact it created.  
 
 ## ⚙️ [**Celtrix OS**](https://github.com/celtrix-os/Celtrix.git)
 
