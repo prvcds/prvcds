@@ -76,4 +76,16 @@ This page highlights my open-source work - the repositories I contributed to, wh
 
 ---
 
+## ⚙️ [**Dev_Profiles**](https://github.com/Gyanthakur/Dev_Profiles)
+
+### 📜 Added `CODE_OF_CONDUCT.md` for Community Guidelines
+**Pull Request:** [#438 – docs: add CODE_OF_CONDUCT.md for community guidelines](https://github.com/Gyanthakur/Dev_Profiles/pull/438)  
+**Description:** Added a `CODE_OF_CONDUCT.md` file to establish contributor behavior standards and support open collaboration.  
+**Impact:**  
+- Strengthened community inclusivity and contributor communication.  
+- Promoted a respectful, professional environment for new developers.  
+- Implemented using the Contributor Covenant v2.1 to align with open-source norms.
+
+---
+
 📚 *This file is continuously updated as I contribute to more repositories and initiatives.*
