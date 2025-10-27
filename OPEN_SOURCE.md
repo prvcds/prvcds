@@ -64,4 +64,16 @@ This page highlights my open-source work - the repositories I contributed to, wh
 
 ---
 
+## ⚙️ [**Sunglasses-Store**](https://github.com/AlizayAyesha/Sunglasses-Store)
+
+### 📜 Added `CODE_OF_CONDUCT.md` for Community Guidelines
+**Pull Request:** [#28 – docs: add a CODE_OF_CONDUCT.md for community guidelines](https://github.com/AlizayAyesha/Sunglasses-Store/pull/28)  
+**Description:** Added a `CODE_OF_CONDUCT.md` file to establish contributor behavior standards and promote an inclusive environment.  
+**Impact:**  
+- Enhanced project professionalism and contributor safety.  
+- Reinforced consistent behavior expectations across the repository.  
+- Built on the Contributor Covenant v2.1, ensuring alignment with open-source best practices.
+
+---
+
 📚 *This file is continuously updated as I contribute to more repositories and initiatives.*
