@@ -30,6 +30,16 @@ This page highlights my open-source work - the repositories I contributed to, wh
 - Defined clear contribution standards, reducing review time for maintainers.  
 - Encouraged sustainable open-source collaboration.
 
+## ⚙️ [**Qroom**](https://github.com/kkhushie/qroom)
+
+### 📜 Added `CODE_OF_CONDUCT.md` for Community Guidelines
+**Pull Request:** [#23 – docs: add CODE_OF_CONDUCT.md for community guidelines](https://github.com/kkhushie/qroom/pull/23)  
+**Description:** Added a `CODE_OF_CONDUCT.md` file to define contributor behavior and maintain an inclusive community environment.  
+**Impact:**  
+- Established clear expectations for communication and collaboration.  
+- Promoted a respectful, welcoming atmosphere for new contributors.  
+- Based on the Contributor Covenant v2.1, ensuring compatibility with widely used open-source standards.
+
 ---
 
 📚 *This file is continuously updated as I contribute to more repositories and initiatives.*
