@@ -40,6 +40,28 @@ This page highlights my open-source work - the repositories I contributed to, wh
 - Promoted a respectful, welcoming atmosphere for new contributors.  
 - Based on the Contributor Covenant v2.1, ensuring compatibility with widely used open-source standards.
 
+## ⚙️ [**Anti-Boredom**](https://github.com/ramanuj-droid/Anti-Boredom)
+
+### 📜 Added `CODE_OF_CONDUCT.md` for Community Guidelines
+**Pull Request:** [#180 – docs: add CODE_OF_CONDUCT.md for community guidelines](https://github.com/ramanuj-droid/Anti-Boredom/pull/180)  
+**Description:** Added a `CODE_OF_CONDUCT.md` file to define community behavior guidelines and encourage healthy collaboration.  
+**Impact:**  
+- Strengthened project inclusivity and contributor clarity.  
+- Provided a reference framework for community interaction.  
+- Implemented using the Contributor Covenant v2.1 for consistency across open-source standards.
+
+---
+
+## ⚙️ [**PimoCoach**](https://github.com/pankajydv08/PimoCoach)
+
+### 📜 Added `CODE_OF_CONDUCT.md` and Linked in `CONTRIBUTING.md`
+**Pull Request:** [#15 – docs: add CODE_OF_CONDUCT.md for community guidelines](https://github.com/pankajydv08/PimoCoach/pull/15)  
+**Description:** Introduced a `CODE_OF_CONDUCT.md` file and updated `CONTRIBUTING.md` to link it directly, ensuring contributors are aware of behavioral expectations.  
+**Impact:**  
+- Established a formal community conduct policy.  
+- Improved contributor awareness and accountability.  
+- Reinforced respectful collaboration and alignment with open-source best practices.
+
 ---
 
 📚 *This file is continuously updated as I contribute to more repositories and initiatives.*
